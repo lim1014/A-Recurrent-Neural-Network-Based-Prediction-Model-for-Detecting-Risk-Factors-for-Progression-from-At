@@ -15,7 +15,7 @@
 - **DeepPrevantion_ChiSqaure.ipynb** : This is a code that executes Chi-Sqaure using **DP_result**.
 
 
-- **DeepPrevention Model Plot**
+## DeepPrevention Model Plot
 
 
  ![model](https://user-images.githubusercontent.com/66989777/122944524-dcfade80-d3b2-11eb-8d65-e36373f00d39.png)
