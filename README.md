@@ -8,6 +8,8 @@
 - **Health_checkup_data.csv** : medical check-up data of atrophic gastritis patients from 2002 to 2013 at National Health Insurance Service (NHIS) in South Korea, which is converted as OMOP-CDM was used for this study.
 - **DeepPrevention_model.h5** : RNN-based prediction model to find risk factors and to detect high risk group for developing gastric cancer among atrophic gastritis patients
 - **DP_result.csv** : DeepPrevantion_model's result csv file
+- **Initial Care History.csv** : Initial medical records of gastritis and stomach cancer. Used for **DeepPrevention_kmeans** and **DeepPrevantion_ChiSqaure**.
+
 
 ## Code
 - **DeepPrevention_RNN.ipynb** : This is a code that can apply **Health_chechup_data** to the **DeepPrevention_model** and result called **DP_result**.
