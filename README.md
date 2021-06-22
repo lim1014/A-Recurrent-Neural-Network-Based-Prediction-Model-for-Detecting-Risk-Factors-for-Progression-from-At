@@ -10,3 +10,8 @@
 
 ## Code
 - **Deep_Prevention.ipynb** : This is a code that can apply **Health_chechup_data** to the **DeepPrevention**.
+
+
+
+- **DeepPrevention Model**
+ ![model](https://user-images.githubusercontent.com/66989777/122944524-dcfade80-d3b2-11eb-8d65-e36373f00d39.png)
