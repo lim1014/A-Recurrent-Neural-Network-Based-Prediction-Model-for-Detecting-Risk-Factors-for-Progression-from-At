@@ -1,7 +1,7 @@
 # A Recurrent Neural Network Based Prediction Model for Detecting Risk Factors for Progression from Atrophic Gastritis to Gastric Cancer 
 
 
->The code and data on this page are for the realization of the paper "A Recurrent Neural Network-Based Prediction Model for Detecting Risk Factors for Progression from Atrophic Gastritis to Gastric Cancer".
+>The code and data on this page are for the realization of the paper **["A Recurrent Neural Network-Based Prediction Model for Detecting Risk Factors for Progression from Atrophic Gastritis to Gastric Cancer"](https://doi.org/10.3390/app11136194)**.
 
 
 ## Data
